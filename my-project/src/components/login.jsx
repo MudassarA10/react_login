@@ -1,6 +1,6 @@
 // import React from "react";
 import './login.css'
-import img1 from '../assets/img-bg.jpg';
+
 const Login = () => {
     return (
         <div className="main">
